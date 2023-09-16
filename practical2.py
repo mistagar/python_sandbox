@@ -16,8 +16,8 @@ for i in range(1,9):
     t.forward(50)
     t.left(45)
 
-t.right(90)
-t.up()
+# t.right(90)
+# t.up()
 
 t.forward(50)
 time.sleep(2)
